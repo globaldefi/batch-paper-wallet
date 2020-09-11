@@ -1,7 +1,7 @@
 # batch-paper-wallet
-Implementation of batch paper wallets for Ethereum
+Implementation of batch paper wallets for Ethereum, BTC, Polkadot and EOS.
 
-This version is still under testing. You can create 1-10,000 paper wallets and it will save as pdf.
+This version is still under testing. You can create 1-1,000 paper wallets and it will save as pdf. This version is using drawing on the canvas (mouse movement) as one form of entropy, together with other random source, it will generate a more secured random numbers for generating private keys.  
    
       
 
